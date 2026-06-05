@@ -1,7 +1,7 @@
 {
   "expiration": 20261231,
   "active": true,
-  "versionMinimum": "2026/04/01",
+  "versionMinimum": "2026/05/19",
   "utilisateurs": [
     {"email": "david.quintanel@cgifinance.fr", "actif": true},
     {"email": "claude.picot@cgifinance.fr", "actif": true}
