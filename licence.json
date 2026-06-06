@@ -3,11 +3,6 @@
   "active": true,
   "versionMinimum": "2026/05/19",
   "utilisateurs": [
-    {"email": "david.quintanel@cgifinance.fr", "actif": true},
-    {"email": "claude.picot@cgifinance.fr", "actif": true}
-    {"email": "benoit.mariotto@cgifinance.fr", "actif": true}
-    {"email": "francois-lucas.danczak@cgifinance.fr", "actif": true}
-    {"email": "noemie.pasquier@cgifinance.fr", "actif": true}
-    {"email": "michel.roussel@cgifinance.fr", "actif": true}
+    {"email": "david.quintanel@cgifinance.fr", "actif": true}
   ]
 }
