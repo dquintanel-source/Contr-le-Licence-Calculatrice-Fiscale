@@ -8,6 +8,6 @@
     {"email": "benoit.mariotto@cgifinance.fr", "actif": true},
     {"email": "francois-lucas.danczak@cgifinance.fr", "actif": false},
     {"email": "noemie.pasquier@cgifinance.fr", "actif": false},
-    {"email": "michel.roussel.danczak@cgifinance.fr", "actif": false} 'le dernier n'a pas de virgule
+    {"email": "michel.roussel.danczak@cgifinance.fr", "actif": false} 
   ]
 }
