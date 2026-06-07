@@ -6,8 +6,8 @@
     {"email": "david.quintanel@cgifinance.fr", "actif": true},
     {"email": "claude.picot@cgifinance.fr", "actif": true},
     {"email": "benoit.mariotto@cgifinance.fr", "actif": true},
-    {"email": "francois-lucas.danczak@cgifinance.fr", "actif": false},
-    {"email": "noemie.pasquier@cgifinance.fr", "actif": false},
-    {"email": "michel.roussel.danczak@cgifinance.fr", "actif": false} 
+    {"email": "francois-lucas.danczak@cgifinance.fr", "actif": true},
+    {"email": "noemie.pasquier@cgifinance.fr", "actif": true},
+    {"email": "michel.roussel.danczak@cgifinance.fr", "actif": true} 
   ]
 }
