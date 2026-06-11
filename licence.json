@@ -3,6 +3,11 @@
   "active": true,
   "versionMinimum": "2026/05/19",
   "utilisateurs": [
-    {"email": "david.quintanel@cgifinance.fr", "actif": true}
+    {
+      "email": "david.quintanel@cgifinance.fr",
+      "actif": true,
+      "prenom": "David",
+      "nom": "Quintanel"
+    }
   ]
 }
