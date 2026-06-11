@@ -3,11 +3,11 @@
   "active": true,
   "versionMinimum": "2026/05/19",
   "utilisateurs": [
-    {"email": "david.quintanel@cgifinance.fr", "actif": true, "prenom": "David", "nom": "Quintanel"},
-    {"email": "claude.picot@cgifinance.fr", "actif": true, "prenom": "Claude", "nom": "Picot"},
-    {"email": "benoit.mariotto@cgifinance.fr", "actif": true, "prenom": "Benoit", "nom": "Mariotto"},
-    {"email": "francois-lucas.danczak@cgifinance.fr", "actif": true, "prenom": "François-Lucas", "nom": "Danczak"},
-    {"email": "noemie.pasquier@cgifinance.fr", "actif": true, "prenom": "Noémie", "nom": "Pasquier"},
-    {"email": "michel.roussel@cgifinance.fr", "actif": true, "prenom": "Michel", "nom": "Roussel"},
-      ]
+    {
+      "email": "david.quintanel@cgifinance.fr",
+      "actif": true,
+      "prenom": "David",
+      "nom": "Quintanel"
+    }
+  ]
 }
