@@ -4,6 +4,13 @@
   "versionMinimum": "2026/05/19",
   "utilisateurs": [
     {"email": "david.quintanel@cgifinance.fr","actif": true,"prenom": "David","nom": "QUINTANEL"},
-    {"email": "claude.picot@cgifinance.fr","actif": true,"prenom": "Claude","nom": "PICOT"}
+    {"email": "claude.picot@cgifinance.fr","actif": true,"prenom": "Claude","nom": "PICOT"},
+    {"email": "noemie.pasquier@cgifinance.fr","actif": true,"prenom": "Noémie","nom": "PASQUIER"},
+    {"email": "benoit.mariotto@cgifinance.fr","actif": true,"prenom": "Benoit","nom": "MARIOTTO"},
+    {"email": "francois-lucas.danczak@cgifinance.fr","actif": true,"prenom": "François-Lucas","nom": "DANCZAK"},
+    {"email": "michel.roussel@cgifinance.fr","actif": true,"prenom": "Michel","nom": "ROUSSEL"},
+    {"email": "helene.fasquel@cgifinance.fr","actif": true,"prenom": "Hélène","nom": "FASQUEL"},
+    {"email": "florence.vilquin@cgifinance.fr","actif": true,"prenom": "Florence","nom": "VILQUIN"},
+    {"email": "mattieu.vanneste@cgifinance.fr","actif": true,"prenom": "Matthieu ","nom": "VANNESTE"}
   ]
 }
